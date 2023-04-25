@@ -2,9 +2,10 @@
 
 # Task
 #There is a series, S, where the next term is the sum of pervious three terms. Given the first three terms of the series, a, b, and c respectively, you have to output the nth term of the series using recursion.
-Input Format
+#Input Format
 • The first line contains a single integer, n.
 • The next line contains 3 space-separated integers, a, b, and c
+
 
 #include <stdio.h>
 #include <string.h>
